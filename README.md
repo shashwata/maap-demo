@@ -6,8 +6,8 @@ Required Apache Kafka. Tested with Apache Kafka 0.7.2. Should work on 0.7.0, 0.7
 
 maap
 ====
- bin/: contains commands available in maap platform
- bin/maap-env.sh: contains the directories/config required to get going
+* bin/: contains commands available in maap platform
+* bin/maap-env.sh: contains the directories/config required to get going
 
 example
 =======
